@@ -1,9 +1,16 @@
 ---
-layout: default
+layout: research
 title: Muni Ticketing Analysis
 ---
 
 
+
+## Research: Muni Ticketing Analysis
+This Jupyter notebook contains the analysis of Muni ticketing data. It includes geocoding, demographic analysis, and visualizations of citation trends.  
+  
+The implications of the analysis are that the mayor's agressive strategy of mass arrests and mass ticketing are disproportionately affecting low-income neighborhoods and communities of color. Citations are up significantly since Lurie took office, with the new enforcement disproportionately targeting BIPOC communities. The analysis also shows that the new administration is focusing on different neighborhoods than the previous administration, with a shift in enforcement patterns away from the Tenderloin and towards the Bayview and Excelsior neighborhoods. The Mission is also seeing a significant increase in citations, along with the very public spectacle of mass arrests of dozens and hundreds of people with almost all the cases being thrown out due to a lack of any evidence.  
+
+--- 
 
 
 
