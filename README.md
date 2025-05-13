@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# SocialMurderInstitute.org
-Researching and publishing data and analysis attributing harms in society to the organizations and policies directly responsible for them.
 
+
+---
 
 <div markdown="0">
 
@@ -21,3 +21,4 @@ Researching and publishing data and analysis attributing harms in society to the
 {% endfor %}
 
 </div>
+
