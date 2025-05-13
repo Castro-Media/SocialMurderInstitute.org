@@ -21,4 +21,3 @@ title: Home
 {% endfor %}
 
 </div>
-
