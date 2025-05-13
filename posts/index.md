@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Home
+title: Posts
 ---
 
-# SocialMurderInstitute.org
-Researching and publishing data and analysis attributing harms in society to the organizations and policies directly responsible for them.
-
+## Posts
 
 <div markdown="0">
 
