@@ -14,6 +14,13 @@ The implications of the analysis are that the mayor's agressive strategy of mass
 
 The analysis shows that the new administration is focusing on different neighborhoods than the previous administration, with a shift in enforcement patterns away from the Tenderloin and towards the Bayview and Excelsior neighborhoods. The Mission is also seeing a significant increase in citations, along with the very public spectacle of mass arrests of dozens and hundreds of people with almost all the cases being thrown out due to a lack of any evidence.  
 
+### Results:
+
+Enforcement is way up; near triple what it was when Lurie took office.  
+
+<a href="./research/output_1_7.png"><img src="./research/output_1_7.png" class="photo" alt="A line chart shows the increase in enforcement since Lurie took office."></a>  
+
+
 The time of day when enforcement has happened has changed significantly. Instead of targeting morning commuters, Lurie has shifted the attention of his enforcers to the afternoon and evening crowds. This is a significant change in the way that enforcement is being done, and it has implications for the communities that are being targeted.  
 
 <a href="./research/output_1_9.png"><img src="./research/output_1_9.png" class="photo" alt="A heatmap of enforcement data illustrates the shift towards later hours of the day once Lurie took office."></a>  
