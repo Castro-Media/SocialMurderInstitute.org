@@ -7,6 +7,7 @@ title: Home
 
 ---
 
+<img src="/assets/images/smi.gif" class="photo">
 
 
 <div markdown="0">
