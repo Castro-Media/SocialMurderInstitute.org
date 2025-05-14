@@ -15,9 +15,9 @@ The analysis shows that the new administration is focusing on different neighbor
 
 Enforcement is up for all racial groups, but white communities are seeing very little of this growth in enforcement, while the vast majority of the new enforcement is targeting minority racial groups.  
 
-<img src="./research/output_1_26.png" class="photo">  
+<a href="./research/output_1_26.png"><img src="./research/output_1_26.png" class="photo"></a>  
 
 As a share of new enforcement per capita, the largest portion of the growth is targeting Indigenous communities, and then black communities.  
 
-<img src="./research/output_1_28.png" class="photo">  
+<a href="./research/output_1_28.png"><img src="./research/output_1_28.png" class="photo"></a>  
 
