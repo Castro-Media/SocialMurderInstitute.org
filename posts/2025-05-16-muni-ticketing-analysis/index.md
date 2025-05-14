@@ -16,11 +16,11 @@ The analysis shows that the new administration is focusing on different neighbor
 
 The time of day when enforcement has happened has changed significantly. Instead of targeting morning commuters, Lurie has shifted the attention of his enforcers to the afternoon and evening crowds. This is a significant change in the way that enforcement is being done, and it has implications for the communities that are being targeted.  
 
-<a href="./research/output_1_26.png"><img src="./research/output_1_9.png" class="photo" alt="A heatmap of enforcement data illustrates the shift towards later hours of the day once Lurie took office."></a>  
+<a href="./research/output_1_9.png"><img src="./research/output_1_9.png" class="photo" alt="A heatmap of enforcement data illustrates the shift towards later hours of the day once Lurie took office."></a>  
 
 It's easy to see that enforcement has moved, but what does it mean? Who is affected by these changes?  
 
-<a href="./research/output_1_26.png"><img src="./research/output_1_18.png" class="photo" alt="A geographic heatmap of enformcement shows how Lurie has shifted attention away from white neighborhoods and into minority neighborhoods."></a>  
+<a href="./research/output_1_18.png"><img src="./research/output_1_18.png" class="photo" alt="A geographic heatmap of enformcement shows how Lurie has shifted attention away from white neighborhoods and into minority neighborhoods."></a>  
 
 Enforcement is up for all racial groups, but white communities are seeing very little of this growth in enforcement, while the vast majority of the new enforcement is targeting minority racial groups.  
 
