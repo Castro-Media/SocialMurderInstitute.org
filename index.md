@@ -9,6 +9,10 @@ title: Home
 
 <img src="/assets/images/smi.gif" class="photo">
 
+The Social Murder Institute analyzes data and attributes harms
+---
+
+## Here are the stories we're covering:
 
 <div markdown="0">
 
@@ -20,6 +24,7 @@ title: Home
     <p>
       <a href="{{ page.url }}">{{ page.title }}</a><br>
       <small><em>{{ page.date | date: "%B %d, %Y" }}</em></small>
+      {% if page.blurb %}<p>{{ page.blurb }}</p>{% endif %}
     </p>
   {% endif %}
 {% endfor %}
