@@ -5,11 +5,9 @@ title: Home
 
 
 
----
 
 <img src="/assets/images/smi.gif" class="photo">
 
-The Social Murder Institute analyzes data and attributes harms
 ---
 
 ## Here are the stories we're covering:
